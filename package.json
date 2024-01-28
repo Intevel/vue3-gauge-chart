@@ -1,7 +1,20 @@
 {
   "name": "vue3-gauge-chart",
-  "private": true,
   "version": "0.0.0",
+  "description": "⏲ Vue 3 wrapper around gauge-chart library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Intevel/vue3-gauge-chart.git"
+  },
+  "keywords": [
+    "vue3",
+    "vue",
+    "gauge",
+    "chart",
+    "wrapper",
+    "gauge-chart",
+    "vue3-gauge-chart"
+  ],
   "type": "module",
   "files": [
     "dist"
@@ -18,7 +31,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && vue-tsc --emitDeclarationOnly && mv dist/src dist/types",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "release": "yarn build && changelogen --release && git push --follow-tags && yarn publish"
   },
   "dependencies": {
     "gauge-chart": "^1.0.0",
