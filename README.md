@@ -21,7 +21,7 @@ yarn add vue3-gauge-chart
 
 ```vue [example.vue]
 <script setup lang="ts">
-import { GaugeMeter, GaugeMeterOptions } from ".";
+import { GaugeMeter, GaugeMeterOptions } from "vue3-gauge-chart";
 
 const options: GaugeMeterOptions = {
   areaWidth: 600,

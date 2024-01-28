@@ -24,7 +24,8 @@
   "exports": {
     ".": {
       "import": "./dist/vue3-gauge-chart.es.js",
-      "require": "./dist/vue3-gauge-chart.umd.js"
+      "require": "./dist/vue3-gauge-chart.umd.js",
+      "types": "./dist/types/index.d.ts"
     }
   },
   "types": "./dist/types/index.d.ts",
