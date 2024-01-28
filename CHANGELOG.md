@@ -1,4 +1,16 @@
 
+## v0.0.2
+
+[compare changes](https://github.com/Intevel/vue3-gauge-chart/compare/v0.0.1...v0.0.2)
+
+### 🩹 Fixes
+
+- Types ([86252d7](https://github.com/Intevel/vue3-gauge-chart/commit/86252d7))
+
+### ❤️ Contributors
+
+- Conner Bachmann ([@Intevel](http://github.com/Intevel))
+
 ## v0.0.1
 
 
