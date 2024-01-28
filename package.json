@@ -1,6 +1,6 @@
 {
   "name": "vue3-gauge-chart",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "⏲ Vue 3 wrapper around gauge-chart library",
   "repository": {
     "type": "git",
