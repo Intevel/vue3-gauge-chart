@@ -1,10 +1,10 @@
-# vue3-gauge-chart
+# vue3-gauge-chart ⏲
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 
-Vue 3 wrapper around [gauge-chart](https://github.com/greetclock/gauge-chart) ⏲
+⏲ Vue 3 wrapper around [gauge-chart](https://github.com/greetclock/gauge-chart) 
 
 ## Install
 
